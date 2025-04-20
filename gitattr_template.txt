@@ -1,0 +1,2 @@
+*.rc  text working-tree-encoding=UTF-16
+path/resource.h   text working-tree-encoding=UTF-16
